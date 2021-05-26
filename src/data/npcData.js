@@ -7,7 +7,7 @@ export const physicalDescription = [
   'A toned man/woman with a broad nose and a stubbly head of ',
   'A trim man/woman with goggle-like eyes and short ',
   'A very heavy-set man/woman with greased jowls and wild ',
-  'A vibrant, energetic man/woman festooned with beads and baubled adorning wild ',
+  'A vibrant, energetic man/woman festooned with beads and baubles adorning wild ',
   'A wiry man/woman with dark eyes and short ',
   'An extremely ugly man/woman with mismatched eyes and a bowl-cut head of ',
   'A man/woman with piercings on his/her left eyebrow and shoulder length ',
@@ -45,7 +45,7 @@ export const hairColor = [
 ]
 
 export const fashionStyle = [
-  'His/her clother and outlanding and his/her boots are ',
+  'His/her boots are outlandish and his/her clothes are ',
   'His/her hooded cloak is ',
   'He/she dons a laced tunic lavishly dyed ',
   'There is a distinctive ring on his/her left hand, and his her cloak is ',
@@ -108,7 +108,7 @@ export const mannerisms = [
   'He/she is a very friendly sort, but compulsively double-checks everything.',
   'He/she seems painfully honest at times, and has a tendency to make people uncomfortable.',
   'He/she always leans close, preferring to whisper furtively glancing around.',
-  'He/she is very suspicious with ever-darting eyes. He/she is also a nailbiter.',
+  'He/she is very suspicious with ever-darting eyes, and is also a nailbiter.',
   'He/she bright eyed and curious as he/she bites his/her lower lip in an eager grin.',
   'He/she has a heavy lisp, and is never without an extra layer of clothing.',
 ]
